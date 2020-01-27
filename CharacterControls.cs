@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class CharacterControls : MonoBehaviour
 {
+    // TEST COMMENT TESTY!!!
     #region Variables 
 
     public LayerMask whatIsWalkable;
