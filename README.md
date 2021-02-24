@@ -1,3 +1,2 @@
 # KyleWeeks-GameDev
- Gamedev projects and script examples
- TEST
+ Gamedev projects and script examples.
